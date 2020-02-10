@@ -2,4 +2,4 @@
 
 Capstone vanilla HTML/CSS/JS project.
 
-View it online: <LINK>
+View it online: https://isg007.github.io/Calculator/
