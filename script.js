@@ -49,3 +49,15 @@ function operate(a, b, operator) {
 			break;
 	}
 }
+
+let displayValue = '';
+const screen = document.querySelector('#screen');
+const buttons = Array.from(document.querySelectorAll('.buttons'));
+buttons.forEach((button) => {
+	button.addEventListener('click', () => {
+		displayValue += `${button.textContent}`;
+		screen.textContent = `${displayValue}`;
+
+		console.log('TCL: displayValue', displayValue);
+	});
+});
