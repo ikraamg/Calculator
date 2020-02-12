@@ -40,6 +40,10 @@ function clearEverthing() {
 const numberButtons = Array.from(document.querySelectorAll('.buttons'));
 numberButtons.forEach((button) => {
 	button.addEventListener('click', () => {
+		if (screen.textContent === 'Infinity') {
+			clearEverthing();
+		}
+
 		try {
 			// eslint-disable-next-line no-empty
 			if (screen.textContent.includes('.') && button.textContent === '.') {
@@ -58,6 +62,15 @@ const clear = document.querySelector('#buttonClear');
 clear.addEventListener('click', () => {
 	clearEverthing();
 	equalsFlag = 1;
+});
+
+const backspace = document.querySelector('#buttonDel');
+backspace.addEventListener('click', () => {
+	screen.textContent = screen.textContent.substring(
+		0,
+		screen.textContent.length - 1
+	);
+	displayValue = screen.textContent;
 });
 
 const solve = document.querySelector('#buttonEquals');
