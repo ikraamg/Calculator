@@ -80,9 +80,10 @@ solve.addEventListener('click', () => {
 	} else {
 		equalsFlag = 1;
 		// eslint-disable-next-line no-useless-escape
-		const solveArray = displayValue.split(/([^\.0-9]=?)/);
+		const solveArray = displayValue.split(/([^\.0-9]=?)/); // split string just after a non digit or '.'
 		for (let i = 0; i < solveArray.length; i += 1) {
 			if (solveArray[i] === '*' || solveArray[i] === '/') {
+				// solve for multiplication and division only
 				solveArray[i - 1] = operate(
 					parseFloat(solveArray[i - 1]),
 					parseFloat(solveArray[i + 1]),
@@ -94,6 +95,7 @@ solve.addEventListener('click', () => {
 		}
 		for (let i = 0; i < solveArray.length; i += 1) {
 			if (solveArray[i] === '+' || solveArray[i] === '-') {
+				// solve for + and - only
 				solveArray[i - 1] = operate(
 					parseFloat(solveArray[i - 1]),
 					parseFloat(solveArray[i + 1]),
@@ -104,7 +106,7 @@ solve.addEventListener('click', () => {
 			}
 		}
 		[displayValue] = solveArray;
-		displayValue = Math.round(displayValue * 10) / 10;
+		displayValue = Math.round(displayValue * 1000) / 1000;
 		replaceScreen(displayValue);
 	}
 });
