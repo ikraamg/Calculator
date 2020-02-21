@@ -3,20 +3,23 @@ body {
   display: flex;
   flex-direction: column;
   width: 100%;
-  height: 100vh;
+  height: 80vh;
   align-items: center;
   justify-content: center;
   font-size: 100%;
-  background-color: #2C344B;
-  color: #C4AECA;
+  background-color: #000000;
+  color: #9BBB8F;
 }
 
+#header{
+  /* width: 50%; */
+}
 #screen {
-  color: black;
+  color: #DF8218;
   width: 50%;
   height: 10%;
   border: 1px rgb(143, 138, 138) solid;
-  background-color: #A2A140;
+  background-color: #2A1D13;
   /* position: fixed; */
   padding: 2%;
   /* margin-left: calc(50vw - 60vh); */
@@ -33,7 +36,7 @@ body {
   column-gap: 1%;
   row-gap: 2%;
   border: 1px #C4AECA solid;
-  background-color: #C4AECA;
+  background-color: #151333;
   /* width: 100vh; */
   /* position: fixed; */
   /* margin-left: calc(50vw - 60vh); */
@@ -51,16 +54,16 @@ button {
   
   font-size: 150%;
   width: 100%;
-  background-color: rgba(255, 255, 255, 0.335);
+  background-color: #9BBB8F;
   border-radius: 5pt;
   outline: none;
   border-color: rgba(205, 214, 213, 0.822);
 }
 button:hover {
-  background-color: rgb(246, 156, 53);
+  background-color: #DF8218;
 }
 .operator button:hover {
-  background-color: rgb(246, 156, 53);
+  background-color:#DF8218;
 }
 
 .operator button {
