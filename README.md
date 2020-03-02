@@ -2,7 +2,7 @@
 
 # Calculator
 
-### This is JS Calculator that follows the correct mathematical order of operatotion rules
+### This is a JS Calculator that follows the correct mathematical order of operatotion rules
 
 > ![screenshot](ss.png)
 
