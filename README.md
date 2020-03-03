@@ -22,7 +22,7 @@ To get a local copy up and running follow these simple example steps:
 
 ### Prerequisites
 
-A browser of your choice, preferably Chrome
+A browser (preferably Chrome)
 
 ### Setup
 
