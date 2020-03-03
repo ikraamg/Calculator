@@ -2,7 +2,7 @@
 
 # Calculator
 
-### This is a JS Calculator that follows the correct mathematical order of operatotion rules
+### This is a JS Calculator that follows the correct mathematical order of operation rules
 
 > ![screenshot](ss.png)
 
@@ -22,7 +22,7 @@ To get a local copy up and running follow these simple example steps:
 
 ### Prerequisites
 
-A browser of your choice, preferrably Chrome
+A browser of your choice, preferably Chrome
 
 ### Setup
 
@@ -35,7 +35,7 @@ A browser of your choice, preferrably Chrome
 
 - Github: [@ikraamg](https://github.com/ikraamg)
 - Twitter: [@GhoorIkraam](https://twitter.com/GhoorIkraam)
-- Linkedin: [isghoor](https://linkedin.com/isghoor)
+- LinkedIn: [isghoor](https://linkedin.com/isghoor)
 - Email: [consult.ikraam@gmail.com](mailto:consult.ikraam@gmail.com)
 
 ## 🤝 Contributing
@@ -48,7 +48,7 @@ Feel free to check the [issues page](https://github.com/ikraamg/Calculator/issue
 
 - Improve animation/styling via CSS/JS
 - Enable input via keyboard numbers
-- Enable multi-broswer support with autoprefixer and santize/reset.css
+- Enable multi-browser support with autoprefixer and sanitize/reset.css
 
 ## Show your support
 
