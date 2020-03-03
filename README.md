@@ -1,5 +1,7 @@
 [![hire-badge](https://img.shields.io/badge/Consult%20/%20Hire%20Ikraam-Click%20to%20Contact-brightgreen)](mailto:consult.ikraam@gmail.com)
 
+![Twitter Follow](https://img.shields.io/twitter/follow/Ikraamg?label=Follow%20me%20on%20Twitter&style=social)
+
 # Calculator
 
 ### This is a JS Calculator that follows the correct mathematical order of operatotion rules
@@ -36,12 +38,19 @@ A browser of your choice, preferrably Chrome
 - Github: [@ikraamg](https://github.com/ikraamg)
 - Twitter: [@GhoorIkraam](https://twitter.com/GhoorIkraam)
 - Linkedin: [isghoor](https://linkedin.com/isghoor)
+- Email: [consult.ikraam@gmail.com](mailto:consult.ikraam@gmail.com)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/ikraamg/Calculator/issues)
+
+### 🚀 Potential/Future Features
+
+- Improve animation/styling via CSS/JS
+- Enable input via keyboard numbers
+- Enable multi-broswer support with autoprefixer and santize/reset.css
 
 ## Show your support
 
@@ -50,7 +59,6 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - The Odin project for the project plan
-- sanitize.css creators for the opinionated css reset file
 
 ## 📝 License
 
