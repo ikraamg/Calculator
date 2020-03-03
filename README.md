@@ -1,6 +1,4 @@
-[![hire-badge](https://img.shields.io/badge/Consult%20/%20Hire%20Ikraam-Click%20to%20Contact-brightgreen)](mailto:consult.ikraam@gmail.com)
-
-![Twitter Follow](https://img.shields.io/twitter/follow/Ikraamg?label=Follow%20me%20on%20Twitter&style=social)
+[![hire-badge](https://img.shields.io/badge/Consult%20/%20Hire%20Ikraam-Click%20to%20Contact-brightgreen)](mailto:consult.ikraam@gmail.com) [![Twitter Follow](https://img.shields.io/twitter/follow/GhoorIkraam?label=Follow%20me%20on%20Twitter&style=social)](https://twitter.com/GhoorIkraam)
 
 # Calculator
 
