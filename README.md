@@ -38,17 +38,17 @@ A browser of your choice, preferrably Chrome
 - Linkedin: [isghoor](https://linkedin.com/isghoor)
 - Email: [consult.ikraam@gmail.com](mailto:consult.ikraam@gmail.com)
 
-## 🚀 Potential/Future Features
-
-- Improve animation/styling via CSS/JS
-- Enable input via keyboard numbers
-- Enable multi-broswer support with autoprefixer and santize/reset.css
-
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/ikraamg/Calculator/issues)
+
+### 🚀 Potential/Future Features
+
+- Improve animation/styling via CSS/JS
+- Enable input via keyboard numbers
+- Enable multi-broswer support with autoprefixer and santize/reset.css
 
 ## Show your support
 
